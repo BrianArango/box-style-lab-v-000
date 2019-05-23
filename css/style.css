@@ -6,7 +6,7 @@ body, html {
   display: block;
   text-align: center;
   background-size: cover;
-  background: no;
+  background-repeat: no-repeat;
 }
 
 img {
